@@ -1,0 +1,22 @@
+Q:
+Does it require electricity?
+Q:
+Can you hold it in one hand?
+Q:
+Can you insert game cartridges into it?
+A:
+gameboy
+A:
+iPod
+Q:
+Does it have a keyboard?
+A:
+computer
+A:
+TV
+Q:
+Does it have petals?
+A:
+flower
+A:
+tree

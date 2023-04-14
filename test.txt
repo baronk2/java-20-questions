@@ -1,0 +1,10 @@
+Q:
+Does it have pages?
+A:
+book
+Q:
+Does it bark?
+A:
+dog
+A:
+computer
